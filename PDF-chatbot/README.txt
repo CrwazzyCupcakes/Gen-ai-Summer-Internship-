@@ -42,8 +42,8 @@ SETUP INSTRUCTIONS
 ------------------
 
 1. Clone the repository
-   git clone https://github.com/CrwazzyCupcakes/Gen-ai-Summer-Internship-/tree/main.git
-   cd pdf-chatbot
+   git clone https://github.com/CrwazzyCupcakes/Gen-ai-Workshop-CBIT_Edspark.git
+   cd Gen-ai-Workshop-CBIT_Edspark/PDF-chatbot
 
 2. Create a virtual environment
    python -m venv venv
